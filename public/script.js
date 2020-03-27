@@ -1,0 +1,3 @@
+Window.addEventListener('resize', function(){
+        
+});
